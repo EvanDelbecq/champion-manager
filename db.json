@@ -1,18 +1,60 @@
 {
   "champions": [
     {
-      "name": "Gragas",
-      "lane": "Jungle",
-      "type": "Bruiser",
-      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg",
-      "id": 1
-    },
-    {
       "name": "Ambessa",
-      "lane": "Top",
-      "type": "Bruiser",
+      "lane": "Mid",
+      "type": "Mage",
       "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_0.jpg",
       "id": 2
+    },
+    {
+      "name": "Aurelion Sol",
+      "lane": "Mid",
+      "type": "Mage",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
+      "id": 3
+    },
+    {
+      "name": "Azir",
+      "lane": "Mid",
+      "type": "Mage",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
+      "id": 4
+    },
+    {
+      "name": "Cassiopeia",
+      "lane": "Mid",
+      "type": "Mage",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg",
+      "id": 5
+    },
+    {
+      "name": "Diana",
+      "lane": "Mid",
+      "type": "Mage",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg",
+      "id": 6
+    },
+    {
+      "name": "Ekko",
+      "lane": "Mid",
+      "type": "Mage",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
+      "id": 7
+    },
+    {
+      "name": "Fizz",
+      "lane": "Mid",
+      "type": "Mage",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg",
+      "id": 8
+    },
+    {
+      "name": "Galio",
+      "lane": "Mid",
+      "type": "Mage",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg",
+      "id": 9
     }
   ]
 }
