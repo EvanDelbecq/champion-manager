@@ -1,0 +1,18 @@
+{
+  "champions": [
+    {
+      "name": "Gragas",
+      "lane": "Jungle",
+      "type": "Bruiser",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg",
+      "id": 1
+    },
+    {
+      "name": "Ambessa",
+      "lane": "Top",
+      "type": "Bruiser",
+      "image": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ambessa_0.jpg",
+      "id": 2
+    }
+  ]
+}
